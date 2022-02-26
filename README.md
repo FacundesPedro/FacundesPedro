@@ -1,5 +1,5 @@
 ## Hi there ,Stranger 👋
-# Name is Pedro :)
+# Name is Pedro <img height="50" width="50" src="png_to_gif.gif" alt="Webimon Character"/>
 
 - 📟 Currently learning about Fullstack Web development;
 - 👯 Looking for collaborate in production-level jobs;
