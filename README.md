@@ -4,7 +4,7 @@
 - 📟 Currently learning about Fullstack Web development;
 - 👯 Looking for collaborate in production-level jobs;
 
-<div align="center">
+<div style="display: inline_block" align="center">
   <a href="https://github.com/FacundesPedro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FacundesPedro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" defer/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacundesPedro&layout=compact&langs_count=7&theme=dracula" defer/>
