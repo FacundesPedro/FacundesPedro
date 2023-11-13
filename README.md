@@ -1,5 +1,5 @@
 ## Hi there ,Stranger 👋
-#[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Name+is+Pedro+Facundes;)](https://git.io/typing-svg) <br/> <img height="50" width="50" src="png_to_gif.gif" alt="Webimon Character"/>
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Name+is+Pedro+Facundes;)](https://git.io/typing-svg) <br/> <img height="50" width="50" src="png_to_gif.gif" alt="Webimon Character"/>
 
 - 📟 Currently learning about Fullstack Web development;
 - 👯 Looking for collaborate in production-level jobs;
