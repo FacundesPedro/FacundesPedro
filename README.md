@@ -1,8 +1,9 @@
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Fullstack_gif" min-width="400px" max-width="400px" width="400px" align="right">
 
+<div min-width="400px" style="display: inline_block" align="center">
 ## Hi there ,Stranger 👋
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Name+is+Pedro+Facundes;)](https://git.io/typing-svg) <br/> <img height="50" width="50" src="png_to_gif.gif" alt="Webimon Character"/>
-
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Name+is+Pedro+Facundes;)](https://git.io/typing-svg) <br/> <img height="100" width="100" src="png_to_gif.gif" alt="Webimon Character"/>
+</div>
 - 📟 Currently learning about Fullstack Web development;
 - 👯 Looking for collaborate in production-level jobs;
 
