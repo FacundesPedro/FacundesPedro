@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Fullstack_gif" min-width="400px" max-width="400px" width="400px" align="right" style="background-color: border-radius:10px;">
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Fullstack_gif" min-width="400px" max-width="400px" width="400px" align="right" style="border-radius:10px;">
 
 <div min-width="400px" style="display: inline_block" align="center">
 ## Hi there ,Stranger 👋
