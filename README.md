@@ -8,7 +8,6 @@
 - 👯 Looking for collaborate in production-level jobs;
 
 <div style="display: inline_block" align="center">
-  /*<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FacundesPedro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" defer/>*/
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacundesPedro&layout=compact&langs_count=7&theme=dracula" defer/>
 </div>
   <div style="display: inline_block"><br>
