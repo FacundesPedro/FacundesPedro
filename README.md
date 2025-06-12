@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=37B4F3&center=true&vCenter=true&width=800&lines=Pedro+Facundes;Fullstack+Dev+%7C+Automation+%7C+DevOps;Building+cool+things+with+Go%2C+TypeScript%2C+Python;" alt="Pedro Facundes Banner" />
 </p>
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td style="vertical-align: top; border: none;">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJwZXJpd2IxZHMwazNvMzJhcnBpa2s0eWw5ODFvcDBuem12Ymh2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XlPwKH1xNgyjZ7bV7L/giphy.gif" alt="Coding" width="175"/>
@@ -28,8 +28,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
 
 ---
 
