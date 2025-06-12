@@ -33,11 +33,11 @@
 
 ## 🚩 Featured Projects
 
-- [**SQL-Challenge**](https://github.com/FacundesPedro/SQL-Challenge): A gamefied way to learn SQL language in the browser. _TypeScript, _Next.JS_
+- [**SQL-Challenge**](https://github.com/FacundesPedro/SQL-Challenge): A gamefied way to learn SQL language in the browser. _TypeScript, Next.JS_
 - [**ntsl-codes**](https://github.com/FacundesPedro/ntsl-codes): Automation scripts for financial market trading using NTSL. _NTSL_
-- [**tenable-glpi-ticket-automation**](https://github.com/FacundesPedro/tenable-glpi-ticket-automation): Automated ticket generation on ´GLPI´ using ´Tenable´ API for scanning latest vulnebilities. _Python3_, _Docker_
-- [**go-auth**](https://github.com/FacundesPedro/go-auth): Go-based authentication microservice, with Docker and OAUTH2. _Go_, _Docker_, _OAUTH2_
-- [**cstrike16-arm-docker**](https://github.com/FacundesPedro/cstrike16-arm-docker): Counter Strike 1.6 server in Docker for ARM.
+- [**tenable-glpi-ticket-automation**](https://github.com/FacundesPedro/tenable-glpi-ticket-automation): Automated ticket generation on ´GLPI´ using ´Tenable´ API for scanning latest vulnebilities. _Python3, Docker_
+- [**go-auth**](https://github.com/FacundesPedro/go-auth): Go-based authentication microservice, with Docker and OAUTH2. _Go, Docker, OAUTH2_
+- [**cstrike16-arm-docker**](https://github.com/FacundesPedro/cstrike16-arm-docker): Counter Strike 1.6 server in Docker for ARM. _Docker, SteamCMD_
 
 ---
 
