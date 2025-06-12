@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Fullstack_gif" width="400px" align="right" style="border-radius:10px; margin-left: 20px;">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJwZXJpd2IxZHMwazNvMzJhcnBpa2s0eWw5ODFvcDBuem12Ymh2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XlPwKH1xNgyjZ7bV7L/giphy.gif" alt="Fullstack_gif" width="400px" align="right" style="border-radius:10px; margin-left: 20px;">
 
 ## Hello, Friend 👋
 
@@ -9,8 +9,6 @@
 - 📟 Currently learning about Fullstack Web development & DevOps practices.
 - 👯 Looking to collaborate on production-level projects and innovative solutions.
 - 🚀 Excited about building scalable and efficient applications.
-
-<br/>
 
 <div align="center" style="margin-bottom: 30px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacundesPedro&layout=compact&langs_count=10&theme=dracula&hide_border=true&card_width=400" alt="Top Languages"/>
