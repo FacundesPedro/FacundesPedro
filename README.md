@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=37B4F3&center=true&vCenter=true&width=800&lines=Pedro+Facundes;Fullstack+Dev+%7C+Automation+%7C+DevOps;Building+cool+things+with+Go%2C+TypeScript%2C+Python;Open+Source+Enthusiast" alt="Pedro Facundes Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=37B4F3&center=true&vCenter=true&width=800&lines=Pedro+Facundes;Fullstack+Dev+%7C+Automation+%7C+DevOps;Building+cool+things+with+Go%2C+TypeScript%2C+Python;" alt="Pedro Facundes Banner" />
 </p>
 <table>
   <tr>
@@ -14,7 +14,6 @@
       </p>
       <ul>
         <li>📟 Fullstack developer & DevOps enthusiast</li>
-        <li>🧑‍💻 Building gameified and educational tools for learning SQL and automation</li>
         <li>🚀 Passionate about scalable, efficient systems and developer productivity</li>
         <li>🌱 Currently exploring advanced TypeScript, Go, Python, and cloud technologies</li>
       </ul>
@@ -31,11 +30,6 @@
 </table>
 
 <br/>
-
-<!-- Visitor Badge (Optional) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FacundesPedro&style=flat-square&color=blue" alt="Visitor Count"/>
-</p>
 
 ---
 
